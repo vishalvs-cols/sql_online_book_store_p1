@@ -1,6 +1,6 @@
 # sql_online_book_store_p1
 
-Project Overview
+**Project Overview**
 
 Project Title: Online Book Store
 Level: Moderate
