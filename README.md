@@ -2,8 +2,12 @@
 
 **Project Overview**
 
-**Project Title: Online Book Store**
+**Project Title: 
+<br>
+Online Book Store**
+<br>
 **Level: Moderate**
+<br>
 **Database: p1_onlinebookstore_db**
 
 The Online Bookstore project is designed to manage information about books, customers, and orders. It showcases SQL concepts such as:
